@@ -3,8 +3,6 @@ import Trait from './Trait';
 import './StarWars.css';
 
 const StarWarsChar = props => {
-    console.log(props.character);
-    console.log(Object.entries(props.character));
     return(
         <div className="character">
             {Object.entries(props.character).map((trait, index) => {
