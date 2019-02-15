@@ -2,7 +2,7 @@ import React from 'react';
 
 const Trait = props => {
     return(
-        <p>{props.trait}</p>
+        <p><strong>{props.trait.replace("_", " ").toUpperCase()}: </strong>{props.traitValue}</p>
     );
 }
 
