@@ -4,7 +4,7 @@ h1 {
 }
 
 .character {
-    border: 1px solid red;
+    background-color: rgb(0,0,0, 0.3);
     color: white;
     width: 45%;
     margin: 40px 2.5%;
