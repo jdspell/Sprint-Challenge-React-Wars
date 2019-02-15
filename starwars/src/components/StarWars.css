@@ -1,4 +1,19 @@
+
+h1 {
+    font-size: 7rem;
+}
+
 .character {
     border: 1px solid red;
-    width: 49%;
+    color: white;
+    width: 45%;
+    margin: 40px 2.5%;
+}
+
+.character p {
+    font-size: 3rem;
+}
+
+.character p strong {
+    font-size: 4rem;
 }
