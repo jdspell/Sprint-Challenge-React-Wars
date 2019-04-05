@@ -1,0 +1,19 @@
+
+h1 {
+    font-size: 7rem;
+}
+
+.character {
+    background-color: rgb(0,0,0, 0.3);
+    color: white;
+    width: 45%;
+    margin: 40px 2.5%;
+}
+
+.character p {
+    font-size: 3rem;
+}
+
+.character p strong {
+    font-size: 4rem;
+}
